@@ -15,6 +15,13 @@ var util = require('util-ext') // this is how you add support for extended util 
 
 Take a look at the code to see the available functions.
 
+
+### Installing 
+
+``` bash 
+npm install util-ext
+```
+
 ### Available Functions
 
 __Partial__. Creates a callback with a set of pre-applied parameters. It's really useful when you need to pass 
